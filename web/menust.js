@@ -1,0 +1,10 @@
+stm_bm(["menu1c53",970,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","100%",0,0,1,2,"default","hand","",1,25],this);
+stm_bp("p0",[0,4,0,0,9,0,14,0,100,"",-2,"",-2,50,0,0,"#999999","transparent","line1.jpg",3,0,0,"#000000"]);
+stm_ai("p0i0",[0,"Home","","",-1,-1,0,"mainpage.jsp","_self","","","icon_44.gif","icon_44.gif",14,15,0,"","",0,0,0,1,1,"#E6EFF9",1,"#E6EFF9",1,"","middle2.jpg",1,1,0,0,"#E6EFF9","#000000","#FFFFFF","#FFFFFF","bold 8pt 'Arial','Verdana'","bold 8pt 'Arial','Verdana'",0,0,"","left1.gif","","right1.gif",6,6,39],150,39);
+stm_aix("p0i1","p0i0",[0,"About Us","","",-1,-1,0,"AboutUs.jsp","_self","","","","",0,0,0,"","",0,0,0,1,1,"#E6EFF9",1,"#E6EFF9",1,"","middle1.jpg"],120,39);
+stm_aix("p0i2","p0i0",[0,"General Instruction","","",-1,-1,0,"Generalinstruction..jsp","_self","","","","",0,0],120,39);
+stm_aix("p0i3","p0i1",[0,"Traffic Updates","","",-1,-1,0,"TrafficUpdate.jsp"],120,39);
+stm_aix("p0i4","p0i2",[0,"E-Challan Status","","",-1,-1,0,"e-chalan.jsp"],120,39);
+stm_aix("p0i5","p0i0",[0,"Contact Us","","",-1,-1,0,"contactus.jsp","_self","","","",""],120,39);
+stm_ep();
+stm_em();

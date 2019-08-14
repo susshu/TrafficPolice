@@ -1,0 +1,16 @@
+stm_bm(["menu0a7f",970,"","blank.gif",0,"","",0,0,250,50,1000,1,0,0,"","",0,0,1,1,"default","hand","",1,25],this);
+stm_bp("p0",[1,4,0,0,1,0,16,0,100,"progid:DXImageTransform.Microsoft.Wipe(GradientSize=1.0,wipeStyle=0,motion=forward,enabled=0,Duration=0.20)",6,"",-2,90,0,0,"#7F7F7F","#797979","",3,0,0,"#666666"]);
+stm_ai("p0i0",[0,"View","","",-1,-1,0,"soadmin.jsp","_self","","","","",16,16,0,"","",0,0,0,0,1,"#006666",1,"#006666",1,"","",3,3,0,0,"#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","bold 15pt Verdana","bold 15pt Verdana",0,0,"","","","",0,0,0],200,36);
+stm_ai("p0i1",[6,1,"#000000","",-1,-1,0]);
+stm_aix("p0i2","p0i0",[0,"Operator Information","","",-1,-1,0,"welcm.jsp","_self","","","","",16,16,0,"","",0,0,0,0,1,"#006666",1,"#006666",1,"","",3,3,0,0,"#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","bold 11pt Verdana","bold 13pt Verdana"],200,0);
+stm_aix("p0i3","p0i1",[]);
+stm_aix("p0i4","p0i2",[0,"Vehicle Information","","",-1,-1,0,"Addvehicle.jsp"],200,0);
+stm_aix("p0i5","p0i1",[]);
+stm_aix("p0i6","p0i0",[0,"Insert"],200,0);
+stm_aix("p0i7","p0i1",[]);
+stm_aix("p0i8","p0i2",[0,"Register New Operator","","",-1,-1,0,"newoprreg.jsp"],200,0);
+stm_aix("p0i9","p0i1",[]);
+stm_aix("p0i10","p0i2",[0,"Add New Operator","","",-1,-1,0,"addopr.jsp"],200,0);
+stm_aix("p0i11","p0i1",[]);
+stm_ep();
+stm_em();

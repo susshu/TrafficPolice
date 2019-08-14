@@ -1,0 +1,44 @@
+/* CSS Document */
+#headder
+{
+width:900px;
+height:250px;
+margin:0px auto;
+background:#0099FF;
+}
+#menu
+{
+width:900px;
+height:50px;
+margin:0px auto;
+background:#FFFFFF;
+}
+#detail
+{
+width:900px;
+height:600px;
+margin:0px auto;
+background:#666666;
+position:relative;
+}
+#lchild
+{
+width:250px;
+height:580px;
+left:10px;
+top:10px;
+background:#999999;
+position:absolute;
+}
+#rchild
+{
+width:620px;
+height:580px;
+right:10px;
+top:10px;
+background:#CCCCCC;
+position:absolute;
+}
+
+
+

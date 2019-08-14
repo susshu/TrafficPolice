@@ -1,0 +1,15 @@
+stm_bm(["menu0a7f",970,"","blank.gif",0,"","",0,0,250,50,1000,1,0,0,"","",0,0,1,1,"default","hand","",1,25],this);
+stm_bp("p0",[1,4,0,0,1,0,16,0,100,"progid:DXImageTransform.Microsoft.Wipe(GradientSize=1.0,wipeStyle=0,motion=forward,enabled=0,Duration=0.20)",6,"",-2,90,0,0,"#7F7F7F","#797979","",3,0,0,"#666666"]);
+stm_ai("p0i0",[0,"View","","",-1,-1,0,"","_self","","","","",16,16,0,"","",0,0,0,0,1,"#006666",1,"#006666",1,"","",3,3,0,0,"#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","bold 10pt Verdana","bold 10pt Verdana",0,0,"","","","",0,0,0],200,36);
+stm_ai("p0i1",[0,"Vehicle Information","","",-1,-1,0,"vehicleinfo1.jsp","_self","","","","",7,7,0,"","",0,0,0,0,1,"",1,"",1,"line1.gif","line2.gif",3,3,0,0,"#FFFFFF","#FFFFFF","#bababa","#FFFFFF","8pt Verdana","8pt Verdana",0,0,"line1.gif","line2.gif","right1.gif","right2.gif",2,22,22],200,22);
+stm_aix("p0i2","p0i1",[0,"Challan Infomation","","",-1,-1,0,"Challaninfo.jsp"],200,22);
+stm_aix("p0i2","p0i1",[0,"Theft Vehicle Infomation","","",-1,-1,0,"theftvehicleinfo1.jsp"],200,22);
+stm_aix("p0i3","p0i0",[0,"Insert"],200,36);
+stm_aix("p0i4","p0i1",[0,"Add Vehicle","","",-1,-1,0,"Addvehicle.jsp","_self","","","","",7,7,0,"","",0,0,0,0,1,"#333333",1,"#333333"],200,22);
+stm_aix("p0i5","p0i4",[0,"Create Challan","","",-1,-1,0,"Challan_no.jsp"],200,22);
+stm_aix("p0i6","p0i4",[0,"Late Challan","","",-1,-1,0,"findChallan.jsp"],200,22);
+stm_aix("p0i7","p0i4",[0,"Pay Challan Online","","",-1,-1,0,"paychallan.jsp"],200,22);
+stm_aix("p0i7","p0i4",[0,"Theft Vehicle Form","","",-1,-1,0,"Theftveh.jsp"],200,22);
+stm_aix("p0i7","p0i4",[0,"Logout","","",-1,-1,0,"logout.jsp"],200,22);
+stm_ep();
+stm_em();
